@@ -102,4 +102,3 @@ mkdir -p .claude/skills/[スキル名]
 
 - **公式ドキュメント（最新）**: https://code.claude.com/docs/ja/skills
 - テンプレート: [templates/skill-template.md](templates/skill-template.md)
-- フロントマターリファレンス: [reference.md](reference.md)
